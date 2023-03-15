@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Vinicius Fonseca
 
 - 🔭 Desenvolvedor de Software
-- 🌱 Estudante de desenvolvimento Full Stack na Trybe
+- 🌱 Estudante de Tecnologia em Sistemas de Computação - UFF
 
 <div> 
     <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=fonsecavini&show_icons=true&theme=dark"/>
